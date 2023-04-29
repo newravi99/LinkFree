@@ -1,0 +1,22 @@
+{
+  "name": "Ravi Menariya",
+  "type": "personal",
+  "bio": "computer science engineer"
+  "links":[
+  {
+    "name": "here is my linkedin",
+    "url": "https://www.linkedin.com/in/ravi-menariya-0098a5232",
+    "icon": "FaLinkedin"
+   },
+   {
+   "name":"my codechef",
+   "url":"https://www.codechef.com/users/ravimenariya",
+   "icon":"FaCodechef"
+   },
+   {
+    "name":"follow me on instagram",
+   "url":"https://instagram.com/ravi_menariya99?igshid=ZDdkNTZiNTM=",
+   "icon":"FaInstagram"
+   }
+ ]
+}
